@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
+<h1>Hola, este es mi nuevo cambio</h1>
 function App() {
   const [username, setUsername] = useState('');
   const [password, setPassword] = useState('');
